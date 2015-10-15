@@ -3,4 +3,4 @@ hello world exercise
 
 hi humans!
 
-I'm new here an i want to learn more
+I'm new here and i want learn more
